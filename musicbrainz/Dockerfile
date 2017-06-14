@@ -1,4 +1,4 @@
-FROM linuxserver/musicbrainz:63
+FROM linuxserver/musicbrainz:latest
 LABEL org.freenas.interactive="false"                                   \
       org.freenas.version="1"                                           \
       org.freenas.upgradeable="true"                                    \
